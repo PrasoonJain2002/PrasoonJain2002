@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasoon Jain
 - 👀 I’m interested in Competitive Coding and Web Development
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning CSS, JavaScript and Cloud Computing
 - 📫 How to reach me : 
 My mail id is prasoonlucknow@gmail.com
 
