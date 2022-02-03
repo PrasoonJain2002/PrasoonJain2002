@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/prasoon56237733" target="blank"><img src="https://img.shields.io/twitter/follow/prasoon56237733?logo=twitter&style=for-the-badge" alt="prasoon56237733" /></a> </p>
 
-- 🔭 I’m currently working on [Cloud Computing](https://events.withgoogle.com/30daysofgooglecloud/#content)
+- 🔭 I’m currently working on [Cloud Computing](https://www.cloudskillsboost.google/public_profiles/f88348f6-8d66-44b8-b998-623ad29167c5)
 
 - 🌱 I’m currently learning **DSA, Web Development and Video Editing**
 
