@@ -1,6 +1,6 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg) -->
 <h1 align="center">Hi 👋, I'm Prasoon Jain</h1>
-<h3 align="center">A passionate frontend developer and a CSE Sophomore at Thapar Institute</h3>
+<h3 align="center">A passionate frontend developer and a CSE Junior(3rd Year) at Thapar Institute</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasoonjain2002&label=Profile%20views&color=0e75b6&style=flat" alt="prasoonjain2002" /> </p>
 
